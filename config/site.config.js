@@ -53,7 +53,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Bilibli',
+      name: 'Bilibili',
       link: 'https://space.bilibili.com/28615855',
     },
     {
